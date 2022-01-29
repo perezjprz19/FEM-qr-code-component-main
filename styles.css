@@ -34,7 +34,7 @@ main {
   background-color: var(--white);
   max-width: 16em;
   border-radius: 10px;
-  padding: 1em;
+  padding: 1em 1em 2em;
 }
 
 img {
